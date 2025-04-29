@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delfinafraifer/Proyecto-2025.git"
+  },
+  "author": "Delfina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delfinafraifer/Proyecto-2025/issues"
+  },
+  "homepage": "https://github.com/delfinafraifer/Proyecto-2025#readme",
+  "description": ""
+}
